@@ -460,6 +460,7 @@ margin-right: 120px
 
 .footer{
   display: flex;
+  align-items: baseline;
 }
 
   .footer-ul {
@@ -480,7 +481,7 @@ margin-right: 120px
   display: flex;
   align-items: center;
   justify-content: center;
- 
+  transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .footer-li-a:hover, .footer-li-a:focus{
