@@ -458,6 +458,10 @@ margin-right: 120px
     width: 264px;
   }
 
+.footer{
+  display: flex;
+}
+
   .footer-ul {
     display: flex;
     gap: 16px;
