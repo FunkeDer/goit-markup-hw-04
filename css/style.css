@@ -331,7 +331,9 @@ img {
   .team-link:focus{
     background-color: #404bbf;
   }
-
+  .team-svg {
+    fill: #f4f4fd;
+  }
   
   .our-portfolio {
     background-color: #FFF;
@@ -583,6 +585,3 @@ margin-right: 120px
   margin-bottom: 16px;
 }
 
-.team-svg {
-  fill: #f4f4fd;
-}
