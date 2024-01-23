@@ -62,7 +62,8 @@ img {
   }
 
   .logotype {
-    color: #4D5AE5;
+    position: relative;
+    color: #404bbf;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -411,8 +412,6 @@ img {
   }
   .page-footer-p {
     color: #F4F4FD;
-    font-family: "Roboto", sans-serif;
-    display: inline-block; 
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5; /* 150% */
